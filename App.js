@@ -17,6 +17,8 @@ const App = StackNavigator({
     paddingTop: Platform.OS === 'ios' ? 0 : StatusBar.currentHeight
   }
 })
+
+
 // para rodar esta aplicacion al hacer nmp start debe salir un qr el cual debemos de captar mediante la aplicacion de celular expo, y ahi vemos rodar la api
 
 export default App

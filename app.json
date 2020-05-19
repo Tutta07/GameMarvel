@@ -1,0 +1,17 @@
+{
+  "name": "GameMarvel",
+  "displayName": "GameMarvel",
+  "expo": {
+    "name": "GameMarvel",
+    "slug": "GameMarvel",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
